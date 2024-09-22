@@ -1,0 +1,8 @@
+*.cache
+*.last-run
+*.crt
+*.merged-ca-bundle
+*.ca-list
+*.ca-bundle
+*.system-ca-bundle
+*.ca-certs/
