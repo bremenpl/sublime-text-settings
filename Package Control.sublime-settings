@@ -7,6 +7,7 @@
 	[
 		"CMake",
 		"Devicetree DTS Highlighting",
+		"Dockerfile Syntax Highlighting",
 		"Package Control",
 		"Terminus",
 		"TOML",
